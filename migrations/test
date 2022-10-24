@@ -1,0 +1,16 @@
+C:/Users/ESTAC-0600/intro_dev/sql-test-Javiiera/migrations/00_create_datbase.sql
+C:/Users/ESTAC-0600/intro_dev/sql-test-Javiiera/migrations/01_create_customers.sql
+C:/Users/ESTAC-0600/intro_dev/sql-test-Javiiera/migrations/02_create_addresses.sql
+C:/Users/ESTAC-0600/intro_dev/sql-test-Javiiera/migrations/03_create_pizzas.sql
+C:/Users/ESTAC-0600/intro_dev/sql-test-Javiiera/migrations/04_create_sizes.sql
+C:/Users/ESTAC-0600/intro_dev/sql-test-Javiiera/migrations/05_create_prices.sql
+C:/Users/ESTAC-0600/intro_dev/sql-test-Javiiera/migrations/06_create_orders.sql
+C:/Users/ESTAC-0600/intro_dev/sql-test-Javiiera/migrations/07_create_order_details.sql
+C:/Users/ESTAC-0600/intro_dev/sql-test-Javiiera/migrations/08_seed_data.sql
+
+C:/Users/ESTAC-0600/intro_dev/sql-test-Javiiera/queryes/01_more_expensive_pizza.sql
+C:/Users/ESTAC-0600/intro_dev/sql-test-Javiiera/queryes/02_max_quantity.sql
+C:/Users/ESTAC-0600/intro_dev/sql-test-Javiiera/queryes/03_max_income.sql
+C:/Users/ESTAC-0600/intro_dev/sql-test-Javiiera/queryes/04_most_sold_size.sql
+C:/Users/ESTAC-0600/intro_dev/sql-test-Javiiera/queryes/05_best_customer.sql
+C:/Users/ESTAC-0600/intro_dev/sql-test-Javiiera/queryes/06_total_income.sql
